@@ -23,7 +23,7 @@ further technical details.
 
 ### Cycles in a Graph
 
-Cuckoo Cycle is an algorithm meant to detect cycles in a bipartite graph of M edges on N+N nodes
+Cuckoo Cycle is an algorithm meant to detect cycles in a bipartite graph of M edges on N+N nodes.
 In plain terms, a bipartite graph is one in which edges (i.e. lines connecting nodes)
 travel only between 2 separate groups of nodes.
 We can number the nodes so that one group consist of even numbered nodes, while the other group consists of odd numbered nodes.
